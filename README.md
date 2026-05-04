@@ -1,3 +1,5 @@
+# EB CLIENT OFFLINE
+
 This is the offical sources to download EB Client lite and legacy offline, 
 This will update with the offical online launcher on every update.
 
